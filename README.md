@@ -1,7 +1,7 @@
 
 [![Nuxt banner](./.github/assets/banner.png)](https://nuxt.com)
 
-# 👋 Welcome to Nuxt
+# 👋 Welcome to Nuxt @heydayle
 
 
 Nuxt's goal is to make web development intuitive and performant, with a great developer experience.<br>Learn more in the ['What is Nuxt?'](https://nuxt.com/docs/getting-started/introduction) section of our documentation.
